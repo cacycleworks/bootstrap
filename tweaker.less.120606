@@ -1,0 +1,7 @@
+@bodyBackground:	@grayDark;
+@textColor:	@white;
+@linkColor:	@grayLighter;
+@baseFontSize:	12px;
+@baseLineHeight:	14px;
+@tableBackgroundAccent:	@gray;
+@btnBackground:	@grayLighter;
